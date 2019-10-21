@@ -1,0 +1,5 @@
+C:\su\CoreTechnologies\CSharp\code\Navigate\obj\Debug\Navigate.exe
+C:\su\CoreTechnologies\CSharp\code\Navigate\obj\Debug\Navigate.pdb
+C:\su\CoreTechnologies\CSharp\code\Navigate\bin\Debug\Navigate.exe
+C:\su\CoreTechnologies\CSharp\code\Navigate\bin\Debug\Navigate.pdb
+C:\su\coretechnologies\CSharp\code\Navigate\obj\Debug\Navigate.csprojResolveAssemblyReference.cache

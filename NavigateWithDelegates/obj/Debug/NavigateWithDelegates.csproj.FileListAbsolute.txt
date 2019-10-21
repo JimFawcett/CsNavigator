@@ -1,0 +1,10 @@
+C:\su\CoreTechnologies\CSharp\code\NavigateWithDelegates\obj\Debug\Navigate.exe
+C:\su\CoreTechnologies\CSharp\code\NavigateWithDelegates\obj\Debug\Navigate.pdb
+C:\su\CoreTechnologies\CSharp\code\NavigateWithDelegates\bin\Debug\Navigate.exe
+C:\su\CoreTechnologies\CSharp\code\NavigateWithDelegates\bin\Debug\Navigate.pdb
+C:\su\coretechnologies\CSharp\code\NavigateWithDelegates\obj\Debug\NavigateWithDelegates.csprojResolveAssemblyReference.cache
+C:\github\JimFawcett\CsNavigator\NavigateWithDelegates\bin\Debug\Navigate.exe
+C:\github\JimFawcett\CsNavigator\NavigateWithDelegates\bin\Debug\Navigate.pdb
+C:\github\JimFawcett\CsNavigator\NavigateWithDelegates\obj\Debug\NavigateWithDelegates.csprojAssemblyReference.cache
+C:\github\JimFawcett\CsNavigator\NavigateWithDelegates\obj\Debug\Navigate.exe
+C:\github\JimFawcett\CsNavigator\NavigateWithDelegates\obj\Debug\Navigate.pdb
